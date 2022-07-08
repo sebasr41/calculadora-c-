@@ -1,0 +1,17 @@
+C:\Users\sebas\Desktop\helouda\proyeccalculadoraseba\proyeccalculadoraseba\obj\Debug\net6.0-windows\proyeccalculadoraseba.csproj.AssemblyReference.cache
+C:\Users\sebas\Desktop\helouda\proyeccalculadoraseba\proyeccalculadoraseba\obj\Debug\net6.0-windows\proyeccalculadoraseba.Form1.resources
+C:\Users\sebas\Desktop\helouda\proyeccalculadoraseba\proyeccalculadoraseba\obj\Debug\net6.0-windows\proyeccalculadoraseba.csproj.GenerateResource.cache
+C:\Users\sebas\Desktop\helouda\proyeccalculadoraseba\proyeccalculadoraseba\obj\Debug\net6.0-windows\proyeccalculadoraseba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Desktop\helouda\proyeccalculadoraseba\proyeccalculadoraseba\obj\Debug\net6.0-windows\proyeccalculadoraseba.AssemblyInfoInputs.cache
+C:\Users\sebas\Desktop\helouda\proyeccalculadoraseba\proyeccalculadoraseba\obj\Debug\net6.0-windows\proyeccalculadoraseba.AssemblyInfo.cs
+C:\Users\sebas\Desktop\helouda\proyeccalculadoraseba\proyeccalculadoraseba\obj\Debug\net6.0-windows\proyeccalculadoraseba.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Desktop\helouda\proyeccalculadoraseba\proyeccalculadoraseba\bin\Debug\net6.0-windows\proyeccalculadoraseba.exe
+C:\Users\sebas\Desktop\helouda\proyeccalculadoraseba\proyeccalculadoraseba\bin\Debug\net6.0-windows\proyeccalculadoraseba.deps.json
+C:\Users\sebas\Desktop\helouda\proyeccalculadoraseba\proyeccalculadoraseba\bin\Debug\net6.0-windows\proyeccalculadoraseba.runtimeconfig.json
+C:\Users\sebas\Desktop\helouda\proyeccalculadoraseba\proyeccalculadoraseba\bin\Debug\net6.0-windows\proyeccalculadoraseba.dll
+C:\Users\sebas\Desktop\helouda\proyeccalculadoraseba\proyeccalculadoraseba\bin\Debug\net6.0-windows\proyeccalculadoraseba.pdb
+C:\Users\sebas\Desktop\helouda\proyeccalculadoraseba\proyeccalculadoraseba\obj\Debug\net6.0-windows\proyeccalculadoraseba.dll
+C:\Users\sebas\Desktop\helouda\proyeccalculadoraseba\proyeccalculadoraseba\obj\Debug\net6.0-windows\refint\proyeccalculadoraseba.dll
+C:\Users\sebas\Desktop\helouda\proyeccalculadoraseba\proyeccalculadoraseba\obj\Debug\net6.0-windows\proyeccalculadoraseba.pdb
+C:\Users\sebas\Desktop\helouda\proyeccalculadoraseba\proyeccalculadoraseba\obj\Debug\net6.0-windows\proyeccalculadoraseba.genruntimeconfig.cache
+C:\Users\sebas\Desktop\helouda\proyeccalculadoraseba\proyeccalculadoraseba\obj\Debug\net6.0-windows\ref\proyeccalculadoraseba.dll
